@@ -1,0 +1,3 @@
+ Generic features list:
+ - index pages : list item , some populated item., search. 
+ - search result: search result, filter by various field.
